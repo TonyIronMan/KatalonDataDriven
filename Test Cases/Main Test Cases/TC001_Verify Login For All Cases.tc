@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Verify Login For All Cases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8cd41ef-6753-49b4-bd09-ae32b8ee96fc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80775db6-077c-465d-97cc-dbad1d46500d</id>
+      <name>var_url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>780b2ef0-ad3a-4361-8349-a3dc2551c1f4</id>
+      <name>var_email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8049599-aeca-48b2-a9d5-dfbd4dadb7cd</id>
+      <name>var_password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>631ed9ae-31d0-4414-b3d4-2e5bccf51ff4</id>
+      <name>var_statusExpectedResult</name>
+   </variable>
+</TestCaseEntity>
